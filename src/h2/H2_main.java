@@ -26,8 +26,8 @@ public class H2_main {
 		}
 	
 		/*
-		System.out.println(min+" ist Minimum");
-		System.out.println(max+" ist Maximum");*/
+		System.out.println(min +" ist Minimum");
+		System.out.println(max +" ist Maximum");*/
 	}
 
 }
